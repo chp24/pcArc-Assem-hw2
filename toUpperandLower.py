@@ -13,3 +13,8 @@ for i in string3:
         string4.append(i)
 string5 = ''.join(string4)     
 print(string5)
+
+# question 16: below is converting integer to hex
+integer = 4
+#replace the 4 above with any integer
+print(hex (integer))
